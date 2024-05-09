@@ -64,11 +64,9 @@ public class cube : MonoBehaviour
 ```
 
 ## Output:
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-![alt text](image-3.png)
+![img1](https://github.com/Naveensrinivasan07/Ex06-Redirecting-the-Scene/assets/119475891/9a686992-51ac-4cff-9c97-f95009f40ce3)
+![img2](https://github.com/Naveensrinivasan07/Ex06-Redirecting-the-Scene/assets/119475891/2bdce292-620f-4ff4-897d-1da2df2a6898)
+![img3](https://github.com/Naveensrinivasan07/Ex06-Redirecting-the-Scene/assets/119475891/f50c7e40-e5ab-4abc-b66b-3c965b7f0dd1)
 
 ## Result:
 
